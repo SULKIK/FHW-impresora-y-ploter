@@ -6,9 +6,11 @@ Las **impresoras** son periféricos de salida que permiten producir una copia pe
 
 Los **plotters** (o trazadores gráficos) son dispositivos de impresión conectados a un ordenador diseñados específicamente para impresiones de gráficos vectoriales o dibujos lineales de gran precisión y gran formato, como planos de arquitectura o ingeniería.
 
+### Ejemplo de Impresora
 ![Impresora Epson (Ejemplo)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Epson_Stylus_SX435W_inkjet_printer.jpg/640px-Epson_Stylus_SX435W_inkjet_printer.jpg)
 *Impresora de inyección de tinta (Fuente: Wikimedia Commons)*
 
+### Ejemplo de Plotter
 ![Plotter HP (Ejemplo)](https://upload.wikimedia.org/wikipedia/commons/e/e0/HP-color-plotter.JPG)
 *Plotter de gran formato (Fuente: Wikimedia Commons)*
 
