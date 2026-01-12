@@ -57,5 +57,4 @@ Las impresoras y plotters siguen siendo periféricos fundamentales en entornos d
 *   **Referencias:**
     *   Stallings, W. (2016). *Computer Organization and Architecture*. Pearson.
     *   Sitios web oficiales de HP y Epson (Especificaciones técnicas).
-*   **Licencia:** .....
 *   **Autores:** [Francisco López Pizano / 1-ASIR-D]
